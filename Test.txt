@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 06A2-0F54
+
+ Directory of C:\Users\MAGULURI\Desktop\MyProject
+
+18-03-2021  16:01    <DIR>          .
+18-03-2021  16:01    <DIR>          ..
+18-03-2021  16:01                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  903,622,000,640 bytes free
